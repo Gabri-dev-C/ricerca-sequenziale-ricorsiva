@@ -63,7 +63,7 @@ int ricerca_seq(int v[], int n, int ele){
 
 # Output
 
-![Risultato della ricerca](immagini/cattura_1.png)
+![Risultato della ricerca](immagini/cattura_1.PNG)
 
 # Autore
 
