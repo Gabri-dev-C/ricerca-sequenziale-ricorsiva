@@ -3,7 +3,7 @@
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-yellow)
 ![Learning](https://img.shields.io/badge/Learning-C++-orange)
 
-## Ricorsive sequential search
+## Recursive sequential search
 
 Implementazione ricorsiva dell'algoritmo di ricerca sequenziale di uno specifico
 elemento all'interno di un vettore.
